@@ -1,3 +1,2 @@
-The prime advantage of using a wireless sensor network can be attributed to the
-fact that the motes consume minimal power. But the motes being densely employed
-can be used to the benet by creating a multi hop network.
+A primary requirement in a wireless sensor network is that the motes consume minimal power. This limits their range of communication. But the motes in densely employed network can be used to the benefit by creating a multi hop network.
+The codes attached were tested on TelosB motes to establish communication between three to four nodes.
